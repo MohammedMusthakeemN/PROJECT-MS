@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+nav
+{
+background-color:MAROON;
+font-size:1.5rem;
+}
+nav>ul
+{
+list-style:none;
+display:flex;
+padding:10px
+}
+nav>ul>li
+{
+margin:20px;
+padding:10px;
+}
+nav>ul>li>a
+{
+text-decoration:none;
+color:white;
+padding:10;
+text-decoration:name;
+}
+nav>ul>li:hover
+{
+background-color:black;
+color:red;
+}
+</style>
+</head>
+<body bgcolor="seashell">
+
+<nav>
+<ul>
+<li><a href="home.html">HOME  </a></li>
+<li><a href="student.html">ADMISSION APPLY  </a></li>
+<li><a href="cource.html">COURSES  </a></li>
+<li><a href="fac1.html">FACILITIES  </a></li>
+<li><a href="contact.html">CONTACT  </a></li>
+</ul>
+</nav>
+<center><img src="measi-logo.png" height="270px" width="1000px"></center><br>
+<strong><h1>MEASI INSTITUTE OF MANAGEMENT</h1></strong><br>
+<b><h2>Instution type:</b><b><font color="blue"> Business School</font></h2></b><br>
+<center><font color="green"><h2>STUDENT REGISTRATION FORM<h2></font></center>
+<table>
+<form action="register.py" method="post">
+Name:<input type="text" name="name" placeholder="name!!" required><br>
+<br>
+Mobile:<input type="number" name="mobile"><br>
+<br>
+Email:<input type="email" name="email"><br>
+<br>
+Password:<input type="text" name="password"><br>
+<br>
+<input type="submit" value="Register" style="background-color:green";>
+<font color="red"><input type="reset" value="Clear"></font>
+</form>
+</table>
+</body>
+</html>

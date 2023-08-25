@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+nav
+{
+background-color:red;
+font-size:1.5rem;
+}
+nav>ul
+{
+list-style:none;
+display:flex;
+padding:10px
+}
+nav>ul>li
+{
+margin:2px
+padding:0px
+}
+nav>ul>li>a
+{
+text-decoration:none;
+color:white;
+padding:30px
+text-decoration:name;
+}
+nav>ul>li:hover
+{
+background-color:black;
+color:red;
+}
+</style>
+</head>
+<body>
+
+<center><img src="logo.jpg" height="200px" width="200px"></center><br>
+<strong><h1>University of Cambridge</h1></strong><br>
+<b><h2>Instution type:</b><b><font color="blue"> University</font></h2></b><br>
+<center><font color="green"><h2>COURCES OFFERED BY CAMBRIDGE<h2></font></center>
+<nav>
+<ul>
+<li><a href="home.html">HOME  </a></li>
+<li><a href="student.html">ADMISSION APPLY  </a></li>
+<li><a href="cources.html">COURSES  </a></li>
+<li><a href="     ">FACILITIES  </a></li>
+<li><a href="     ">CONTACT  </a></li>
+</ul>
+</nav>
+<section>
+Libraries
+You certainly won’t be short of libraries at Cambridge – the collegiate University has more than 100! Libraries provide study spaces, resources and staff to help you find what you need for your studies.<br>
+
+College libraries contain standard course texts and other related materials, as well as some specialist collections.<br>
+Faculty and department libraries offer more specialised subject collections and can signpost you to subject-specific electronic resources, including journals, ebooks and databases.<br>
+The main University Library (or UL) is a legal deposit library holding more than eight million books, journals and other documents ranging in age from ancient manuscripts to a vast range of electronic resources available for you to access from anywhere.<br>
+To ensure you get the most from the University’s libraries, the UL and many of the College, faculty and department libraries offer practical sessions and one-to-one help. These include introductory tours, sessions to highlight the resources available for particular disciplines and information skills classes.<br>
+
+The CamGuides pre-arrival resource will also introduce you to some of the academic, research and digital practices in which Cambridge students engage.<br>
+
+For further information, visit Cambridge Libraries.<br>
+
+Computing and IT
+University Information Services (UIS) works in partnership with your College and department to provide all your computing needs while you're at Cambridge. <br>
+
+The UIS offers all students comprehensive IT support, including:<br>
+
+eduroam wifi provision throughout the University and most Colleges<br>
+free email accounts and file storage
+free software, including Microsoft 365 and Trellix antivirus protection<br>
+free IT training courses<br>
+a service desk<br>
+For further information, visit the University Information Services website.<br>
+
+Language Centre,br.
+The Language Centre provides opportunities to all students wishing to take up or continue a language. Our Language Programme (CULP) offers taught courses at various levels in a number of languages. We also run a popular conversation exchange scheme with native speakers, and conversation sessions for students to maintain their spoken ability. <br>
+
+Our range of static and interactive resources includes books, CDs, foreign films and online programmes. In addition, the John Trim Centre houses self-study resources in more than 180 languages (including English) and a dedicated Advising Team is on hand to help.<br>
+
+For further information, visit the Language Centre website.<br>
+
+Museums and collections<br>
+Cambridge has nine specialist museums and collections, all of which are open to students and the public. The fascinating exhibits range from dinosaurs to modern art, and rock samples to Rembrandt. Even if none relates directly to your course, a look at the whale skeletons, classical sculpture or even the camera used by Robert Falcon Scott at the South Pole in 1912 has to add something to your time at Cambridge!<br>
+
+Highlights from our museums and collections include:<br>
+
+Snow goggles used by Ernest Shackleton<br>
+140 million year old fossil ferns<br>
+Samurai armour complete with a moustache made of boar’s bristles<br>
+Rembrandt, Titian and Monet at the Fitzwilliam Museum<br>
+Modern and contemporary art at Kettle’s Yard<br>
+Charles Darwin’s microscope<br>
+21 metre fin whale skeleton<br>
+For further information, visit the museums and collections website.<br>
+
+Facilities for worship, celebration and meditation<br>
+There are religion-specific places of worship in and around Cambridge for those following the Buddhist, Christian, Hindu, Jewish, Muslim and Sikh faiths, and many Colleges have chapels and designated spaces for prayer and reflection by students of all faiths or none.<br>
+
+A number of rooms are also made available by the University for its students, staff and authorised visitors with the primary purpose of providing a safe, clean and inclusive place for worship, celebration or meditation.<br>
+
+For further information, see www.studentwellbeing.admin.cam.ac.uk.<br>
+
+Course-specific facilities and resources<br>
+Our course specific facilities range from laboratories and surgical suites to concert halls and theatres. You can find out more about the facilities and resources that support learning at Cambridge on our course pages.<br>
+</section>
